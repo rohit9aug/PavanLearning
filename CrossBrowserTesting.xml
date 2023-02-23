@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="opencartSuite" parallel="tests">
+	<test thread-count="5" name="opencartTest_edge">
+		<parameter name="browser" value="edge"></parameter>
+		<classes>
+			<class name="testCases.TC_001_Login" />
+			<class name="testCases.BaseClass" />
+		</classes>
+	</test> <!-- opencartTest -->
+	<test thread-count="5" name="opencartTest_chrome">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="testCases.TC_001_Login" />
+			<class name="testCases.BaseClass" />
+		</classes>
+	</test>
+	<test thread-count="5" name="opencartTest_firefox">
+		<parameter name="browser" value="firefox"></parameter>
+		<classes>
+			<class name="testCases.TC_001_Login" />
+			<class name="testCases.BaseClass" />
+		</classes>
+	</test>
+</suite> <!-- opencartSuite -->

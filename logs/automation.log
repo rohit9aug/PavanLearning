@@ -1,0 +1,162 @@
+17:04:37.601 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+17:04:38.312 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+17:04:38.444 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+17:04:38.518 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+17:04:50.973 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+17:05:42.687 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+17:05:42.694 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+17:05:42.694 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+17:05:42.698 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7048535f
+17:05:42.712 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+17:05:42.713 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 19
+17:05:42.713 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+17:05:42.713 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+17:05:42.714 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+17:05:42.715 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+17:05:42.715 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+17:05:42.715 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+17:05:42.716 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @61a485d2
+17:05:42.717 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+17:05:42.717 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+17:05:42.718 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 4265607168 bytes (maybe)
+17:05:42.718 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\HP\AppData\Local\Temp (java.io.tmpdir)
+17:05:42.718 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+17:05:42.718 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+17:05:42.719 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+17:05:42.719 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+17:05:42.720 [main] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+17:05:42.721 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+17:05:42.730 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+17:05:42.748 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+17:05:42.749 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+17:05:42.792 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+17:05:42.793 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+17:05:42.811 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+17:05:42.818 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+17:05:42.818 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+17:05:42.860 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+17:05:42.861 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+17:05:42.869 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+17:05:42.869 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+17:05:42.869 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+17:05:43.139 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 12060 (auto-detected)
+17:05:43.141 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+17:05:43.141 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+17:05:43.151 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+17:05:43.152 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+17:05:43.175 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 58:a0:23:ff:fe:95:b8:0c (auto-detected)
+17:05:43.220 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+17:05:43.221 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+17:05:43.221 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@27df5d9e
+17:05:43.238 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+17:05:43.238 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+17:05:43.238 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+17:05:43.238 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+17:05:43.817 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+17:05:43.923 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x880e802a0c788475
+17:05:47.113 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+17:05:47.113 [main] DEBUG testCases.TC_001_Login - Application logs***
+17:05:48.160 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+17:05:48.259 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+17:05:48.337 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+17:06:01.456 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+19:05:51.221 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+19:05:54.067 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+19:05:54.167 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+19:05:54.263 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+19:06:09.320 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+19:18:02.657 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+19:18:04.520 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+19:18:04.638 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+19:18:04.753 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+19:18:17.177 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+22:19:26.902 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+22:19:28.326 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+22:19:28.421 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+22:19:28.493 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+22:19:39.921 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+22:25:34.253 [TestNG-tests-1] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+22:25:35.940 [TestNG-tests-1] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+22:25:36.158 [TestNG-tests-2] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+22:25:36.160 [TestNG-tests-1] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+22:25:36.314 [TestNG-tests-1] INFO  testCases.TC_001_Login - *****Entered correct password********
+22:25:37.735 [TestNG-tests-2] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+22:25:37.830 [TestNG-tests-2] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+22:25:37.921 [TestNG-tests-2] INFO  testCases.TC_001_Login - *****Entered correct password********
+22:25:40.191 [TestNG-tests-3] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+22:25:41.130 [TestNG-tests-3] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+22:25:41.168 [TestNG-tests-3] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+22:25:41.192 [TestNG-tests-3] INFO  testCases.TC_001_Login - *****Entered correct password********
+22:25:46.526 [TestNG-tests-3] INFO  testCases.TC_001_Login - *****clicked on submit button********
+22:25:51.308 [TestNG-tests-1] INFO  testCases.TC_001_Login - *****clicked on submit button********
+22:25:57.173 [TestNG-tests-2] INFO  testCases.TC_001_Login - *****clicked on submit button********
+22:38:22.600 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+22:38:23.424 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+22:38:23.519 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+22:38:23.595 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+22:38:39.088 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+01:02:19.351 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+01:02:21.444 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+01:02:21.760 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+01:02:21.865 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+01:02:33.800 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+01:03:43.115 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+01:03:44.036 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+01:03:44.217 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+01:03:44.390 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+01:03:56.090 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+01:04:53.761 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+01:04:54.715 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+01:04:54.864 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+01:04:54.955 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+01:05:06.423 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+10:07:42.768 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+10:07:43.445 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+10:07:43.630 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+10:07:43.714 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+10:07:58.168 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+12:04:55.559 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+12:04:57.007 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+12:04:57.145 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+12:04:57.247 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+12:05:10.894 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+16:54:59.700 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+16:55:00.353 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+16:55:00.459 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+16:55:00.550 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+16:55:15.517 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+23:34:48.013 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+23:34:48.829 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+23:34:48.966 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+23:34:49.098 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+23:35:00.760 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+23:44:17.209 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+23:44:17.937 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+23:44:18.069 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+23:44:18.197 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+23:44:29.639 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+23:51:09.264 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+23:51:09.962 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+23:51:10.078 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+23:51:10.165 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+23:51:21.433 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+23:53:01.392 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+23:53:02.445 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+23:53:02.538 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+23:53:02.627 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+23:53:21.491 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
+00:01:07.636 [main] INFO  testCases.TC_001_Login - *****The test case TC_001_Login********
+00:01:08.366 [main] INFO  testCases.TC_001_Login - *****Clicked on login link of HomePage********
+00:01:08.587 [main] INFO  testCases.TC_001_Login - *****Entetered correct email ********
+00:01:08.761 [main] INFO  testCases.TC_001_Login - *****Entered correct password********
+00:01:20.317 [main] INFO  testCases.TC_001_Login - *****clicked on submit button********
